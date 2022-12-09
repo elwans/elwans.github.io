@@ -1,0 +1,29 @@
+body {
+  background: #000 url("bladerunner.png") repeat-y top right;
+  width: 990px;
+  margin: 0 auto;
+  font-family: helvetica, arial;
+  color: #fff;
+}
+h1 {
+  font-weight: bold;
+  font-size: 100px;
+  letter-spacing: -5px;
+  text-align: right;
+  float: left;
+  line-height: 105px;
+  padding-top: 80px;
+}
+#badges {
+  float: right;
+  padding: 115px;
+}
+#wrapper {
+  width: 990px;
+  height: 100%;
+  float: left;
+}
+#col1 {
+  width: 420px;
+  float: left;
+}
